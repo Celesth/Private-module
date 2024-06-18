@@ -1,3 +1,5 @@
+
+--on my note I couldn't find the orginal thread
 -- Gui to Lua
 -- Version: 3.2 - Exp
 
